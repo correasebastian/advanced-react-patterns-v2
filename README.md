@@ -17,6 +17,8 @@ react components more useful and reusable without sacrificing simplicity.
 [![Star on GitHub][github-star-badge]][github-star]
 [![Tweet][twitter-badge]][twitter]
 
+## slides
+ https://slides.com/kentcdodds/advanced-react-patterns#/
 ## System Requirements
 
 * [git][git] v2.14.1 or greater
